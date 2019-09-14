@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RupeshTest</string>
+    <string name="txt_mm">00:00</string>
+    <string name="txt_ind_mm_ss">:</string>
+    <string name="btn_title_start">Start</string>
+    <string name="btn_title_stop">Stop</string>
+    <string name="txt_timeup">TIME\'S UP!!</string>
+    <string name="time_start">Time Start</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>
